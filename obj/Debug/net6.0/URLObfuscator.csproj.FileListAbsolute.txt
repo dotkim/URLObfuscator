@@ -1,0 +1,15 @@
+/home/knerl/git/URLObfuscator/bin/Debug/net6.0/URLObfuscator
+/home/knerl/git/URLObfuscator/bin/Debug/net6.0/URLObfuscator.deps.json
+/home/knerl/git/URLObfuscator/bin/Debug/net6.0/URLObfuscator.runtimeconfig.json
+/home/knerl/git/URLObfuscator/bin/Debug/net6.0/URLObfuscator.dll
+/home/knerl/git/URLObfuscator/bin/Debug/net6.0/URLObfuscator.pdb
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.csproj.AssemblyReference.cache
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.GeneratedMSBuildEditorConfig.editorconfig
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.AssemblyInfoInputs.cache
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.AssemblyInfo.cs
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.csproj.CoreCompileInputs.cache
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.dll
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/refint/URLObfuscator.dll
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.pdb
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/URLObfuscator.genruntimeconfig.cache
+/home/knerl/git/URLObfuscator/obj/Debug/net6.0/ref/URLObfuscator.dll
